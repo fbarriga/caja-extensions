@@ -30,3 +30,8 @@ share/caja-share.c
 share/shares.c
 wallpaper/caja-wallpaper-extension.c
 [type: gettext/ini]wallpaper/libcaja-wallpaper.caja-extension.in.in
+xattr-tags/caja-xattr-tags-extension.c
+[type: gettext/ini]xattr-tags/libcaja-xattr-tags.caja-extension.in.in
+xattr-tags-property-page/caja-xattr-tags-property-page-extension.c
+xattr-tags-property-page/tags-tree-view.c
+[type: gettext/ini]xattr-tags-property-page/libcaja-xattr-tags-property-page.caja-extension.in.in
